@@ -8,4 +8,8 @@ number of hours they studied. This is a simple linear
 regression task as it involves just two variables.<br><br>
 Data can be found at http://bit.ly/w-data<br><br>
 What will be predicted score if a student study for 9.25 hrs in a
-day ?</h4>
+day ?</h4><br>
+<h2>Task <b> 3 </b>- To Explore Unsupervised Machine Learning </h2>
+<h4>From the given ‘Iris’ dataset, predict the optimum number of
+clusters and represent it visually.<br><br>
+Dataset : https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing</h4>
